@@ -47,7 +47,7 @@ The project is organized into **3 levels**:
 - **Matplotlib** & **Seaborn** for visualizations  
 - **NLTK** for basic NLP & text analysis  
 - **WordCloud** for sentiment visuals  
-- **Jupyter Notebook** for development
+- **Google Colab Notebook** for development
 
 ---
 
